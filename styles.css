@@ -1,0 +1,35 @@
+body{
+    background: pink;
+    margin-bottom: 100px;
+    margin: 0px;
+}
+.titulo{
+    font-size: 45px;
+    margin: 5%;
+    font-family: "Abril Fatface", serif;
+}
+.subtitulo{
+    font-size: 25px;
+    margin: 2%;
+}
+.dorama{
+    font-size: 30px;
+    margin: 2%;
+    font-family: "Abril Fatface", serif;
+}
+.chamada-video{
+    margin: 2%;
+}
+.sinopse{
+    margin: 2%;
+    font-size: 20px;
+}
+header{
+    padding: 20px;
+    border-bottom: solid 2px cyan;
+}
+.querido{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    justify-content: center;
+}
